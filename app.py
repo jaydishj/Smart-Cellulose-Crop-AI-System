@@ -25,7 +25,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="title">🌱 Smart Cellulose Crop AI System | </div>', unsafe_allow_html=True)
+st.markdown('<div class="title">🌱 Smart Cellulose Crop AI System  </div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Find suitable cellulose crops | பொருத்தமான மரத்தாது பயிர்கள்</div>', unsafe_allow_html=True)
 st.divider()
 
